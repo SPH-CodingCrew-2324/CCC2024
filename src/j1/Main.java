@@ -1,3 +1,4 @@
+package j1;
 
 import java.util.*;
 public class Main {
